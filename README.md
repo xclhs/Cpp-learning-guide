@@ -16,7 +16,7 @@
 
 ## 致谢
 
-笔者时间和水平有限，如果读者发现书中内容的错误，欢迎提 [Issue](https://github.com/xclhs/C-Primer-Plus-Notes-6-edition-/issues)，或者直接提 [Pull request]https://github.com/xclhs/C-Primer-Plus-Notes-6-edition-/pulls)。详细贡献指南请参考[如何参与贡献](CONTRIBUTING.md).
+笔者时间和水平有限，如果读者发现书中内容的错误，欢迎提 [Issue](https://github.com/xclhs/C-Primer-Plus-Notes-6-edition-/issues)，或者直接提 [Pull request](https://github.com/xclhs/C-Primer-Plus-Notes-6-edition-/pulls)。详细贡献指南请参考[如何参与贡献](CONTRIBUTING.md).
 
 
 
