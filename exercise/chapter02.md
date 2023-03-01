@@ -109,7 +109,7 @@ void show_yourself(std::string name,std::string address){
 }
 ```
 
-![image-20221024161612175](..\img\image-20221024161612175.png)
+![image-20221024161612175](../img/image-20221024161612175.png)
 
 
 
@@ -134,7 +134,7 @@ int fl2yd(int furlong){
 }
 ```
 
-![image-20221024161544787](..\img\image-20221024161544787.png)
+![image-20221024161544787](../img/image-20221024161544787.png)
 
 
 
@@ -171,7 +171,7 @@ void show_action(){
 }
 ```
 
-![image-20221024162024118](..\img\image-20221024162024118.png)
+![image-20221024162024118](../img/image-20221024162024118.png)
 
 
 
@@ -200,7 +200,7 @@ int Year2Month(int year){
 }
 ```
 
-![image-20221024162326935](..\img\image-20221024162326935.png)
+![image-20221024162326935](../img/image-20221024162326935.png)
 
 
 
@@ -231,7 +231,7 @@ int Celsius2Fahrenheit(int Celsius){
 }
 ```
 
-![image-20221024163818989](..\img\image-20221024163818989.png)
+![image-20221024163818989](../img/image-20221024163818989.png)
 
 
 
@@ -264,7 +264,7 @@ int ly2au(double lightYear){
 }
 ```
 
-![image-20221024165128204](..\img\image-20221024165128204.png)
+![image-20221024165128204](../img/image-20221024165128204.png)
 
 
 
@@ -291,4 +291,4 @@ int main(){
 }
 ```
 
-![image-20221024165516865](..\img\image-20221024165516865.png)
+![image-20221024165516865](../img/image-20221024165516865.png)

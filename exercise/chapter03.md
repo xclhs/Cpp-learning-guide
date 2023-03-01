@@ -1,7 +1,5 @@
 # 第三章练习
 
-#### 
-
 #### 问答题
 
 \1. Why does C++ have more than one integer type? 
