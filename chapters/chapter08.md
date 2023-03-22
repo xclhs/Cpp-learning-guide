@@ -1610,7 +1610,7 @@ long indeed(int);
 decltype (indeed(3)) m; // m is type int
 ```
 
-- 如果 expression 是左值，则 var 是对表达式类型的引用,表达式不能是未加括号的标识符。 那它会是什么呢？ 一个明显的可能性是带括号的标识符
+- 如果带括号的标识符expression 是左值，则 var 是对表达式类型的引用,表达式不能是未加括号的标识符。
 
 ```c++
 double xx = 4.4;
