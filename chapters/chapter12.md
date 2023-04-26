@@ -264,7 +264,6 @@ StringBad类的问题来自于特殊成员函数。这些是自动定义的成�
 
 <div style='box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;border-radius: 4px; padding:0.7em;background-color:#D3D3D3;'>
 更确切地说，如果程序使用对象的方式需要后面三者的定义，编译器就会为后三个生成定义。   </div>
-
 <span style="color: #DB7093">C++11又提供了两个特殊的成员函数--移动构造函数和移动赋值运算符。</span>
 
 事实证明，隐式拷贝构造器和隐式赋值运算符导致了StringBad类的问题。
